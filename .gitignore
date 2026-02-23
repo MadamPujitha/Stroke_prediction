@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Node
+node_modules/
+
+# Model files (optional but recommended if large)
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
